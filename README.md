@@ -11,9 +11,6 @@
 ## Instructions
 
 
-
-For this Lab, you will use Bootstrap to create a login page for a fictitious website about Australian animals.
-
 You have been given screenshots of the completed solution at various breakpoints, as well as all of the written content. 
 
 Working on your own, you will use various Bootstrap components and utilities to create a website that resembles the provided screenshots as much as possible. 
@@ -46,12 +43,9 @@ Remember that even though the Bootstrap's documentation may use certain levels o
 
 This lab will be out of five (5) marks. You will be graded on the following criteria:
 
-1. Bootstrap Components. Bootstrap components, such as the navbar and card component, are correctly structured, functional, and styled to closely resemble the provided screenshots. (+1)
+1. Bootstrap Components. Bootstrap components, such as the card component, are correctly structured, functional, and styled to closely resemble the provided screenshots. (+1)
 
-2. Bootstrap Grid. The Bootstrap Grid system is used to create a mobile-first flex layout; specifically, this entails using a container, rows, and various column classes, in the correct nesting order. Different sections of the website adapt to the size of the viewport and change their layout based upon Bootstrap's predefined breakpoints. (+2)
+2. Bootstrap Grid. The Bootstrap Grid system is used to create a mobile-first flex layout; specifically, this entails using a container, rows, and various column classes, in the correct nesting order. Different sections of the website adapt to the size of the viewport and change their layout based upon Bootstrap's predefined breakpoints. (+3)
 
-3. Bootstrap Icon Library. Bootstrap's icon library is used for a brand logo and social media links in the footer. (+1)
 
-4. Bootstrap Utility Classes. Utility classes are utilised throughout the layout to define typographic styles, box shadows, form component styles, and colours. (+1)
-
-Submissions that do not pass W3C Validation will receive a grade of 0%.
+3. Bootstrap Utility Classes. Utility classes are utilised throughout the layout to define typographic styles, box shadows, form component styles, and colours. (+1)
